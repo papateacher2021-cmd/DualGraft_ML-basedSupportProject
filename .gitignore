@@ -1,0 +1,15 @@
+# Entorno virtual y Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Versiones de trabajo intermedias / borradores locales
+appdg01.py
+appdg02.py
+bigrequirements.txt
+
+# Directorios de IDEs
+.vscode/
+.idea/
